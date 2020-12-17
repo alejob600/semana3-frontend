@@ -25,7 +25,12 @@
             </div>
         </nav>
     <section>
-        <div class="container mt-5">
+    <div class="">
+        <div class="col col-4 col-sm-12 align-content-center text-center">
+                 <img alt="Vue logo pl-5 pt-5 mx-auto d-block" src="../assets/logo.png" />            
+        </div>
+
+        <div class="container mt-5 col col-12 col-md-4 col-sm-12">
             <div class="row">
                 <div class="col-md-12">
                     <ul class="list-group">
@@ -35,6 +40,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </section>
     </div>
 </template>
